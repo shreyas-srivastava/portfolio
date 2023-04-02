@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29bc8131.css",
+    "main.js": "/static/js/main.6cad79ce.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/chatify.png": "/static/media/chatify.eea3b313ba1b19a214ba.png",
+    "static/media/codeEditor.png": "/static/media/codeEditor.635792f10dad8eb65b4b.png",
+    "static/media/blog.png": "/static/media/blog.a0a6277d15d4216cb887.png",
+    "static/media/suicide.png": "/static/media/suicide.e86cec9dad4ac8df74fb.png",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/leaf.png": "/static/media/leaf.e936dbabd53c32fed270.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/static/media/logo.2892f3801d41ecf13e88.png",
+    "static/media/Shreyas_Srivastava-VIT_VELLORE.pdf": "/static/media/Shreyas_Srivastava-VIT_VELLORE.8714031c6b57996f89c0.pdf",
+    "static/media/avatar.svg": "/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.29bc8131.css.map": "/static/css/main.29bc8131.css.map",
+    "main.6cad79ce.js.map": "/static/js/main.6cad79ce.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29bc8131.css",
+    "static/js/main.6cad79ce.js"
+  ]
+}
